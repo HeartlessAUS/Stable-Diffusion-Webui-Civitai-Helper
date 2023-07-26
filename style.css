@@ -16,3 +16,13 @@ blockquote ol {
     padding: 10px 0 !important;
 }
 
+.extra-network-thumbs .actions .additional {
+    position: relative;
+    }
+.gradio-container .prose a, .gradio-container .prose a:visited{
+  display: inline-block;
+  font-size: 100% !important;
+}
+.gradio-container-3-32-0 .prose ul{
+  display: inline-block;
+}
