@@ -688,14 +688,12 @@ onUiLoaded(() => {
                         }
                         ul_node.appendChild(add_trigger_words_node);
                         ul_node.appendChild(use_preview_prompt_node);
-
                     }
                 } else {
-					console.log("Attempted to create Nodes when they already exist!")
+					console.log("Attempted to create Nodes when they already exist!");
 				}
+			}
         }
-
-
     }
 
 
